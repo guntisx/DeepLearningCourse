@@ -13,3 +13,4 @@ The course videos can be found here:
 9. What is Language? https://youtu.be/aJ-3botLBM0
 10. Compression by LLM: https://youtu.be/r-fSI7rSjYI (Original: https://youtu.be/zjkBMFhNj_g )
 11. Evolutionary Learning: https://youtu.be/4OTuG0WRjaU
+12. Neural Network Basics: https://youtu.be/5KNE_zvnNeA
