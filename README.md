@@ -14,6 +14,9 @@ The course videos can be found here:
 10. Compression by LLM: https://youtu.be/r-fSI7rSjYI (Original: https://youtu.be/zjkBMFhNj_g )
 11. Evolutionary Learning: https://youtu.be/4OTuG0WRjaU
 12. Neural Network Basics: https://youtu.be/5KNE_zvnNeA
-<!-- 13. Neural Network Learning:
+<!-- 
+13. Neural Learning (Backpropagation):
 14. PyTorch:
-15. PromptEngineering: -->
+15. PromptEngineering (using LLMs):
+16. HuggingFace (using DNNs):
+-->
