@@ -23,4 +23,5 @@ The course videos can be found here:
 
 ## Transcripts for all videos available from YouTube
 In video description (press "...more" to reveal it all), at the lower-left corner there is button "Show transcrpt". The transcript will appear in the top-right section. The three dots in the top-right corner "Toggle timestamps" - you may want to remove timestamps before copy/paste them to your favorite text editor. Transcript languages are switched with the drop-down list below the transcript.
-![transcript](transcript.png =x200)
+<img src="transcript.png" width="200">
+
