@@ -23,7 +23,7 @@ Code for my Deep Learning Course at University of Latvia
 
 ### Transcripts for all videos available from YouTube
 In video description (press "...more" to reveal it all), at the lower-left corner there is button "Show transcrpt". 
-From there copy/paste to your favourite editor (remove timestamps with "Toggle timestamps" under the three dots in the top-right corner).
+Copy/paste transcript to your favourite editor (remove timestamps with "Toggle timestamps" under the three dots in the top-right corner).
 <!-- The transcript will appear in the top-right section. The three dots in the top-right corner "Toggle timestamps" - you may want to remove timestamps before copy/paste them to your favorite text editor. Transcript languages are switched with the drop-down list below the transcript. -->
 
 <img src="transcript.png" width="600">
