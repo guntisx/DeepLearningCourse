@@ -1,7 +1,7 @@
 # DeepLearningCourse
 Code for my Deep Learning Course at University of Latvia
 
-The course videos can be found here:
+##The course videos can be found here:
 1. Intro to Deep Learning: https://youtu.be/2K2RMy-5ZsM
 2. Bigram Model: https://youtu.be/Kbc-8iEe6Js (Original: https://youtu.be/kCc8FmEb1nY ) 
 3. Data is King: https://youtu.be/8t4sxp7NVjg
@@ -21,7 +21,8 @@ The course videos can be found here:
 16. HuggingFace (using DNNs):
 -->
 
-## Transcripts for all videos available from YouTube
+### Transcripts for all videos available from YouTube
 In video description (press "...more" to reveal it all), at the lower-left corner there is button "Show transcrpt". The transcript will appear in the top-right section. The three dots in the top-right corner "Toggle timestamps" - you may want to remove timestamps before copy/paste them to your favorite text editor. Transcript languages are switched with the drop-down list below the transcript.
+
 <img src="transcript.png" width="600">
 
