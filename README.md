@@ -14,11 +14,11 @@ Code for my Deep Learning Course at University of Latvia
 10. Compression by LLM: https://youtu.be/r-fSI7rSjYI (Original: https://youtu.be/zjkBMFhNj_g )
 11. Evolutionary Learning: https://youtu.be/4OTuG0WRjaU
 12. Neural Network Basics: https://youtu.be/5KNE_zvnNeA
-<!-- 
 13. Neural Learning (Backpropagation):
-14. PyTorch:
-15. PromptEngineering (using LLMs):
-16. HuggingFace (using DNNs):
+14. PyTorch library: https://youtu.be/NlzC9zTXTHM
+<!-- 
+16. PromptEngineering (using LLMs):
+17. HuggingFace (using DNNs):
 -->
 
 ### Transcripts for all videos available from YouTube
