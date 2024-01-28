@@ -14,7 +14,7 @@ Code for my Deep Learning Course at University of Latvia
 10. Compression by LLM: https://youtu.be/r-fSI7rSjYI (Original: https://youtu.be/zjkBMFhNj_g )
 11. Evolutionary Learning: https://youtu.be/4OTuG0WRjaU
 12. Neural Network Basics: https://youtu.be/5KNE_zvnNeA
-13. Neural Network training (Backpropagation): https://youtu.be/GSZnx7VK3Zg (CompleteExplanation: https://youtu.be/VMj-3S1tku0 )
+13. Neural Network training (Backpropagation): https://youtu.be/GSZnx7VK3Zg (DetailedExplanation: https://youtu.be/VMj-3S1tku0 )
 14. PyTorch library: https://youtu.be/NlzC9zTXTHM
 <!-- 
 16. PromptEngineering (using LLMs):
