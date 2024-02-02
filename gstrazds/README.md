@@ -4,7 +4,7 @@ create a Python virtual environment, e.g. using Anaconda; recommended python ver
 ```
 > conda create -n dlcourse python=3.10
 > conda activate dlcourse
-> conda install -n dlcourse -c conda-forge matplotlib jupyterlab
+> conda install -n dlcourse jupyterlab
 > jupyter lab
 
 ```
