@@ -30,5 +30,5 @@ Copy/paste transcript to your favourite editor (remove timestamps with "Toggle t
 
 ### How these videos were voiced and transcribed?
 
-Videos were subtitled and voiced using SELMA UC0 available at: https://github.com/SELMA-project/UC0-OpenSource
+Videos were subtitled and voiced using SELMA UC0 OpenSource software available at: https://github.com/SELMA-project/UC0-OpenSource
 
