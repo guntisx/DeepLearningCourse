@@ -28,3 +28,7 @@ Copy/paste transcript to your favourite editor (remove timestamps with "Toggle t
 
 <img src="transcript.png" width="600">
 
+### How these videos were voiced and transcribed?
+
+Videos were subtitled and voiced using SELMA UC0 available at: https://github.com/SELMA-project/UC0-OpenSource
+
