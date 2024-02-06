@@ -12,6 +12,6 @@ Instructions (choose one of the following):
 > conda create -n dlcourse python=3.10
 > conda activate dlcourse
 > conda install -n dlcourse jupyter
-> jupyter lab
+> jupyter notebook
 
 ```
