@@ -8,7 +8,7 @@ Code for my Deep Learning Course at University of Latvia
 4. Numerical Optimisation: https://youtu.be/u-Sn0f2XHnI
 5. Architectures of Neural Networks: https://youtu.be/y6emEiI1lZw
 6. Intro to ChatGPT: https://youtu.be/HY-1RoVFftc
-7. Intro to Robotics: https://youtu.be/Bi9QtQb3vrA
+7. Intro to Robotics: https://youtu.be/Bi9QtQb3vrA (Image segmentation example: https://github.com/paulispaulis/CLIC-semseg )
 8. From Bigram to ChatGPT: https://youtu.be/lZM36LLXWbc
 9. What is Language? https://youtu.be/aJ-3botLBM0
 10. Compression by LLM: https://youtu.be/r-fSI7rSjYI (Original: https://youtu.be/zjkBMFhNj_g )
