@@ -9,7 +9,7 @@ Code for my Deep Learning Course at University of Latvia
 5. Architectures of Neural Networks: https://youtu.be/y6emEiI1lZw
 6. Intro to ChatGPT: https://youtu.be/HY-1RoVFftc
 7. Intro to Robotics: https://youtu.be/Bi9QtQb3vrA (Image segmentation example: https://github.com/paulispaulis/CLIC-semseg )
-8. From Bigram to ChatGPT: https://youtu.be/lZM36LLXWbc (Tokenization details: https://youtu.be/zduSFxRajkE )
+8. From Bigram to ChatGPT: https://youtu.be/lZM36LLXWbc (Tokenization: https://youtu.be/zduSFxRajkE and What Transformers can learn https://arxiv.org/abs/2310.16028)
 9. What is Language? https://youtu.be/aJ-3botLBM0 ("There could be hidden mathematical pattern in language" an [Overview paper](https://www.technologyreview.com/2024/03/04/1089403/large-language-models-amazing-but-nobody-knows-why/) )
 10. Compression by LLM: https://youtu.be/r-fSI7rSjYI (Original: https://youtu.be/zjkBMFhNj_g )
 11. Evolutionary Learning: https://youtu.be/4OTuG0WRjaU
