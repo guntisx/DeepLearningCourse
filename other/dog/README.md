@@ -16,9 +16,9 @@ dog hates cats, chases them away
 done finished
 
 (base) guntis@Guntiss-MacBook-Pro P2 % python homosapiens.py
-homosapiens does not like mouses, ignores them
-homosapiens does not like mouses, ignores them
-homosapiens does not like mouses, ignores them
+homosapiens does not like mice, ignores them
+homosapiens does not like mice, ignores them
+homosapiens does not like mice, ignores them
 done finished
 (base) guntis@Guntiss-MacBook-Pro P2 %
 '''
