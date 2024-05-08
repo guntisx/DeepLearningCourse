@@ -7,7 +7,7 @@ def homosapiens(a):
 		goto .mouse #even while seeing a cat, hearing a word "mouse" makes homosapiens act on a mouse
 		if a == "mouse":
 			label .mouse
-			print("homosapiens does not like mouses, ignores them")
+			print("homosapiens does not like mice, ignores them")
 			continue
 		if a == "dog":
 			label .dog
@@ -15,7 +15,7 @@ def homosapiens(a):
 			continue
 		if a == "cat":
 			label .cat
-			print("homosapiens likes cats, because they chase and eat mouses")
+			print("homosapiens likes cats, because they chase and eat mice")
 			continue
 	return("done")
 
