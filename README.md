@@ -10,7 +10,7 @@ Code for my Deep Learning Course at University of Latvia
 6. Intro to ChatGPT: https://youtu.be/HY-1RoVFftc (Course on [prompt engineering](https://github.com/microsoft/generative-ai-for-beginners ) ; GPT3 [explained](https://www.youtube.com/watch?v=0ZVOmBp29E0) )
 7. Intro to Robotics: https://youtu.be/Bi9QtQb3vrA (Image segmentation example: https://github.com/paulispaulis/CLIC-semseg ; [KarpathyAtTesla](https://youtu.be/FnFksQo-yEY) )
 8. From Bigram to ChatGPT: https://youtu.be/lZM36LLXWbc (Tokenization: https://youtu.be/zduSFxRajkE ; Attention: https://youtu.be/eMlx5fFNoYc ; What Transformers can learn: https://arxiv.org/abs/2310.16028)
-9. What is Language? https://youtu.be/aJ-3botLBM0 (Diversity of modern languages imply they emerged AFTER HomoSapiens migration out of Africa https://youtu.be/rQv7NBGsldk ; [Impossible languages](https://arxiv.org/abs/2401.06416))
+9. What is Language? https://youtu.be/aJ-3botLBM0 (Diversity of modern languages implies they emerged AFTER HomoSapiens migration out of Africa https://youtu.be/rQv7NBGsldk ; [Impossible languages](https://arxiv.org/abs/2401.06416))
 10. Compression by LLM: https://youtu.be/r-fSI7rSjYI (Original: https://youtu.be/zjkBMFhNj_g )
 11. Evolutionary Learning: https://youtu.be/4OTuG0WRjaU (Demo https://youtu.be/GOFws_hhZs8 )
 12. Neural Network Basics: https://youtu.be/5KNE_zvnNeA
