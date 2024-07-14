@@ -16,6 +16,7 @@ Code for my Deep Learning Course at University of Latvia
 12. Neural Network Basics: https://youtu.be/5KNE_zvnNeA
 13. Neural Network training (Backpropagation): https://youtu.be/GSZnx7VK3Zg (DetailedExplanation: https://youtu.be/VMj-3S1tku0 )
 14. PyTorch library: https://youtu.be/NlzC9zTXTHM
+15. Innovation: https://youtu.be/1Vhh_dYOu0I
 <!-- 
 16. PromptEngineering (using LLMs):
 17. HuggingFace (using DNNs):
