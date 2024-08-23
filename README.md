@@ -16,7 +16,7 @@ Code for my Deep Learning Course at University of Latvia
 12. Neural Network Basics: https://youtu.be/5KNE_zvnNeA
 13. Neural Network training (Backpropagation): https://youtu.be/GSZnx7VK3Zg (DetailedExplanation: https://youtu.be/VMj-3S1tku0 )
 14. PyTorch library: https://youtu.be/NlzC9zTXTHM
-16. Innovation: https://youtu.be/1Vhh_dYOu0I (Mistery2: Evolutionary lrarning needs no training data)
+16. Innovation: https://youtu.be/1Vhh_dYOu0I (Mistery2: Evolutionary learning needs no training data)
 17. Technological Evolution https://youtu.be/wIJnvCqKPXM (Mystery1: Incremental memory)
 18. Egocentric Viewpoint https://youtu.be/t3-InC9VEko (Mystery3: Concept creation)
 <!-- 
