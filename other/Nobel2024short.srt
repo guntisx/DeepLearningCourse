@@ -1,0 +1,1207 @@
+1
+0:00:00,040 --> 0:00:01,670
+Okay, so get this.
+
+2
+0:00:01,870 --> 0:00:05,790
+Today's deep dive is all about artificial intelligence.
+
+3
+0:00:05,890 --> 0:00:06,760
+AI, huh?
+
+4
+0:00:06,940 --> 0:00:09,060
+Yeah, but not just the AI
+
+5
+0:00:09,060 --> 0:00:11,110
+that's blowing up the headlines these days.
+
+6
+0:00:11,240 --> 0:00:12,000
+Right.
+
+7
+0:00:12,090 --> 0:00:14,560
+We're talking like way back to the roots,
+
+8
+0:00:14,630 --> 0:00:16,000
+going back to the very beginning
+
+9
+0:00:16,000 --> 0:00:18,830
+of how machines like learn to think.
+
+10
+0:00:19,130 --> 0:00:20,440
+Okay, sounds interesting.
+
+11
+0:00:20,440 --> 0:00:23,220
+Right, and get this, you might be surprised to hear
+
+12
+0:00:23,370 --> 0:00:26,000
+it all starts with like trying to understand
+
+13
+0:00:26,000 --> 0:00:30,120
+the most complex thing we know of, the human brain.
+
+14
+0:00:30,120 --> 0:00:31,520
+Yeah, makes sense, right?
+
+15
+0:00:31,520 --> 0:00:32,680
+If you wanna build a thinking machine,
+
+16
+0:00:32,680 --> 0:00:34,360
+gotta figure out how our own brains do it.
+
+17
+0:00:34,500 --> 0:00:36,440
+Exactly, so we gotta start our journey
+
+18
+0:00:36,440 --> 0:00:39,720
+with this fascinating physicist, John J. Hopfield.
+
+19
+0:00:39,860 --> 0:00:41,040
+Hopfield, huh?
+
+20
+0:00:41,130 --> 0:00:44,040
+So not just some random physicist dabbling in brain science.
+
+21
+0:00:44,040 --> 0:00:45,140
+No, no, not at all.
+
+22
+0:00:45,190 --> 0:00:47,480
+This guy was a total rock star in biophysics.
+
+23
+0:00:47,480 --> 0:00:48,320
+Oh, really?
+
+24
+0:00:48,320 --> 0:00:49,270
+Like what kind of stuff was he known for?
+
+25
+0:00:49,380 --> 0:00:51,760
+Well, in the 70s, he like cracked the code
+
+26
+0:00:51,760 --> 0:00:54,640
+on this cellular process called kinetic proofreading.
+
+27
+0:00:54,750 --> 0:00:55,980
+Kinetic what now?
+
+28
+0:00:56,000 --> 0:00:56,840
+That sounds kinda intense.
+
+29
+0:00:56,840 --> 0:00:57,680
+I know, right?
+
+30
+0:00:57,710 --> 0:00:59,200
+So picture this, it's like imagine
+
+31
+0:00:59,200 --> 0:01:01,480
+the microscopic world of cells.
+
+32
+0:01:01,480 --> 0:01:02,320
+Okay, I'm picturing.
+
+33
+0:01:02,330 --> 0:01:04,720
+And all these molecules are bumping around,
+
+34
+0:01:04,720 --> 0:01:06,810
+interacting, you know, like a super busy city.
+
+35
+0:01:06,850 --> 0:01:08,760
+We're having like a whole world going on in there.
+
+36
+0:01:08,760 --> 0:01:10,400
+Totally, and in all that chaos,
+
+37
+0:01:10,400 --> 0:01:13,920
+sometimes things go wrong, errors pop up,
+
+38
+0:01:13,920 --> 0:01:15,660
+you know, like a typo in a manuscript.
+
+39
+0:01:15,720 --> 0:01:16,960
+Makes sense, things happen.
+
+40
+0:01:16,960 --> 0:01:18,800
+Exactly, so kinetic proofreading,
+
+41
+0:01:18,830 --> 0:01:21,200
+it's like the cell's own spell check.
+
+42
+0:01:21,360 --> 0:01:23,360
+Oh, that's kinda cool, the cell's got its own editor.
+
+43
+0:01:23,360 --> 0:01:26,430
+Exactly, make sure those tiny errors get caught and fixed.
+
+44
+0:01:26,440 --> 0:01:27,960
+Keeps everything running smoothly, huh?
+
+45
+0:01:27,960 --> 0:01:29,270
+Exactly.
+
+46
+0:01:29,360 --> 0:01:30,880
+So that was Hopfield's jam,
+
+47
+0:01:30,910 --> 0:01:33,620
+the super intricate world of cells.
+
+48
+0:01:33,710 --> 0:01:36,680
+So how does this biophysics whiz
+
+49
+0:01:36,690 --> 0:01:39,340
+end up shaping the world of AI?
+
+50
+0:01:39,440 --> 0:01:41,560
+Well, that's where things get really wild.
+
+51
+0:01:41,570 --> 0:01:44,900
+We're talking 1982, Hopfield publishes this paper
+
+52
+0:01:44,960 --> 0:01:47,230
+that like sends shockwaves
+
+53
+0:01:47,310 --> 0:01:48,760
+through the whole science community,
+
+54
+0:01:48,760 --> 0:01:50,400
+both physics and neuroscience.
+
+55
+0:01:50,400 --> 0:01:51,460
+Whoa, what did he do?
+
+56
+0:01:51,580 --> 0:01:53,260
+He basically created a model
+
+57
+0:01:53,400 --> 0:01:56,480
+for how our brains store and recall memories.
+
+58
+0:01:56,480 --> 0:01:57,760
+Like how we remember stuff?
+
+59
+0:01:57,760 --> 0:02:00,940
+Yes, specifically those aha moments
+
+60
+0:02:01,000 --> 0:02:03,280
+when one thing reminds us of something else.
+
+61
+0:02:03,290 --> 0:02:05,800
+You mean like if I smell freshly baked bread,
+
+62
+0:02:05,820 --> 0:02:07,520
+it takes me back to my grandma's kitchen?
+
+63
+0:02:07,540 --> 0:02:11,400
+Exactly, or a song takes you back to a special moment.
+
+64
+0:02:11,440 --> 0:02:12,880
+That's associative memory,
+
+65
+0:02:12,900 --> 0:02:14,870
+and Hopfield, he captured that in his model.
+
+66
+0:02:15,080 --> 0:02:16,360
+Wow, that's wild.
+
+67
+0:02:16,400 --> 0:02:18,030
+How do you even begin to build a model
+
+68
+0:02:18,130 --> 0:02:19,840
+for something as complex as memory?
+
+69
+0:02:19,850 --> 0:02:21,880
+Right, it's like modeling a black hole.
+
+70
+0:02:21,920 --> 0:02:23,880
+But get this, his big breakthrough
+
+71
+0:02:23,880 --> 0:02:25,960
+was connecting this biological process
+
+72
+0:02:25,960 --> 0:02:29,200
+of associative memory to, get this, magnets.
+
+73
+0:02:29,200 --> 0:02:30,480
+Magnets, wait, hold on.
+
+74
+0:02:30,520 --> 0:02:31,560
+You're telling me there's a link
+
+75
+0:02:31,650 --> 0:02:33,310
+between how we remember stuff
+
+76
+0:02:33,320 --> 0:02:35,600
+and like those things sticking to my fridge?
+
+77
+0:02:35,600 --> 0:02:37,410
+I know, it sounds crazy, but stay with me.
+
+78
+0:02:37,520 --> 0:02:40,080
+So you know how magnets have these things called spins?
+
+79
+0:02:40,220 --> 0:02:43,000
+Tiny magnetic regions that can influence each other, right?
+
+80
+0:02:43,000 --> 0:02:44,140
+Yeah, vaguely, go on.
+
+81
+0:02:44,390 --> 0:02:48,000
+So Hopfield, he realized that neurons in our brain,
+
+82
+0:02:48,000 --> 0:02:49,160
+the way they talk to each other,
+
+83
+0:02:49,160 --> 0:02:50,760
+it's like those magnetic spins.
+
+84
+0:02:50,760 --> 0:02:53,520
+It's all about patterns and connections.
+
+85
+0:02:53,560 --> 0:02:57,560
+And he used this to build a mathematical model of the brain.
+
+86
+0:02:57,560 --> 0:03:01,240
+No way, so he used magnets to model memories.
+
+87
+0:03:01,560 --> 0:03:04,280
+Basically, he called it a recurrent neural network.
+
+88
+0:03:04,280 --> 0:03:05,220
+Recurrent what now?
+
+89
+0:03:05,330 --> 0:03:07,840
+It's a fancy way of saying he made a mathematical version
+
+90
+0:03:07,840 --> 0:03:11,160
+of how neurons in our brain work together to make memories.
+
+91
+0:03:11,200 --> 0:03:13,940
+Hold on, so this guy, he used physics
+
+92
+0:03:14,360 --> 0:03:16,560
+to unlock the secrets of the human brain.
+
+93
+0:03:16,780 --> 0:03:18,600
+You got it, it was like science fiction
+
+94
+0:03:18,600 --> 0:03:20,280
+becoming reality and guess what?
+
+95
+0:03:20,320 --> 0:03:21,400
+It worked.
+
+96
+0:03:21,470 --> 0:03:24,640
+His model, it could actually store and retrieve information
+
+97
+0:03:24,990 --> 0:03:27,360
+based on associations, just like our brains.
+
+98
+0:03:27,360 --> 0:03:28,770
+Now that's what I call a breakthrough.
+
+99
+0:03:28,940 --> 0:03:30,020
+It was a game changer.
+
+100
+0:03:30,240 --> 0:03:31,800
+This is where it all started.
+
+101
+0:03:31,910 --> 0:03:34,640
+One physicist, inspired by magnets,
+
+102
+0:03:34,680 --> 0:03:38,120
+creates this model that shows how our brains make memories.
+
+103
+0:03:38,130 --> 0:03:38,990
+That's incredible.
+
+104
+0:03:39,070 --> 0:03:41,510
+So are we saying Hopfield laid the groundwork
+
+105
+0:03:41,640 --> 0:03:45,560
+for like all AI, self-driving cars, all that?
+
+106
+0:03:45,780 --> 0:03:46,700
+In a way, yeah.
+
+107
+0:03:46,910 --> 0:03:48,450
+His work was a huge deal.
+
+108
+0:03:48,490 --> 0:03:50,760
+It proved that you could create mathematical models
+
+109
+0:03:50,890 --> 0:03:54,040
+based on the brain, models that could learn and remember.
+
+110
+0:03:54,070 --> 0:03:56,570
+Wow, so what's next in the story of AI?
+
+111
+0:03:56,860 --> 0:03:59,470
+Well, like any good invention, it had its limits.
+
+112
+0:03:59,660 --> 0:04:00,600
+What kind of limits?
+
+113
+0:04:00,600 --> 0:04:03,160
+Hopfield's model, it was great for a few memories,
+
+114
+0:04:03,200 --> 0:04:05,440
+but the more you added, the less accurate it got.
+
+115
+0:04:05,480 --> 0:04:07,280
+Imagine a library with a million books,
+
+116
+0:04:07,290 --> 0:04:09,790
+but no filing system, total chaos.
+
+117
+0:04:09,800 --> 0:04:10,930
+Yeesh, I see your point.
+
+118
+0:04:11,160 --> 0:04:13,060
+So someone had to figure out
+
+119
+0:04:13,240 --> 0:04:14,540
+how to organize all those memories,
+
+120
+0:04:14,630 --> 0:04:18,280
+how to make AI more efficient, more,
+
+121
+0:04:18,300 --> 0:04:20,040
+well, more intelligent.
+
+122
+0:04:20,080 --> 0:04:21,960
+And that's where a new player enters the scene,
+
+123
+0:04:22,110 --> 0:04:23,360
+Geoffrey E. Hinton,
+
+124
+0:04:23,370 --> 0:04:26,400
+a British computer scientist obsessed with brains.
+
+125
+0:04:26,400 --> 0:04:28,010
+Okay, I've heard that name before.
+
+126
+0:04:28,050 --> 0:04:30,060
+Geoffrey Hinton, he's like a big deal in AI, right?
+
+127
+0:04:30,160 --> 0:04:31,320
+He's a legend.
+
+128
+0:04:31,320 --> 0:04:33,800
+And he had this radical idea,
+
+129
+0:04:33,810 --> 0:04:35,600
+an idea that would change everything
+
+130
+0:04:35,600 --> 0:04:38,000
+about how we thought about artificial intelligence.
+
+131
+0:04:38,000 --> 0:04:39,360
+Okay, now you've got to tell me more.
+
+132
+0:04:39,380 --> 0:04:41,320
+What was this revolutionary idea?
+
+133
+0:04:41,370 --> 0:04:43,800
+So last time we left off with Geoffrey Hinton,
+
+134
+0:04:43,800 --> 0:04:47,560
+this guy who was dead set on making machines learn like us.
+
+135
+0:04:47,560 --> 0:04:48,510
+Right, a real visionary.
+
+136
+0:04:48,560 --> 0:04:51,280
+Totally, but not everyone was buying it back then.
+
+137
+0:04:51,280 --> 0:04:52,120
+Yeah, I bet.
+
+138
+0:04:52,120 --> 0:04:54,240
+So how'd he win over the skeptics?
+
+139
+0:04:54,290 --> 0:04:56,340
+Well, Hinton knew that to really nail
+
+140
+0:04:56,400 --> 0:04:58,310
+this whole brain-like learning thing,
+
+141
+0:04:58,440 --> 0:05:00,500
+he needed a model that did more
+
+142
+0:05:00,530 --> 0:05:02,340
+than just store memories like files.
+
+143
+0:05:02,480 --> 0:05:03,520
+Okay, so what, like,
+
+144
+0:05:03,530 --> 0:05:05,200
+it had to actually learn from experience.
+
+145
+0:05:05,200 --> 0:05:07,460
+Exactly, it had to adapt and change
+
+146
+0:05:07,640 --> 0:05:08,910
+just like our brains do.
+
+147
+0:05:09,100 --> 0:05:10,820
+Enter the Boltzmann machine.
+
+148
+0:05:10,970 --> 0:05:12,680
+The Boltzmann machine.
+
+149
+0:05:12,680 --> 0:05:14,360
+Ah, that sounds kind of complicated.
+
+150
+0:05:14,380 --> 0:05:15,780
+The name's a mouthful, I'll give you that,
+
+151
+0:05:15,860 --> 0:05:17,730
+but the idea is actually pretty cool.
+
+152
+0:05:17,950 --> 0:05:21,600
+Picture a network, like a web of interconnected units,
+
+153
+0:05:21,600 --> 0:05:23,760
+sort of like simplified neurons in the brain.
+
+154
+0:05:23,760 --> 0:05:24,780
+Okay, I'm picturing it.
+
+155
+0:05:24,920 --> 0:05:26,400
+And each connection in this network,
+
+156
+0:05:26,400 --> 0:05:29,390
+it has a certain weight that shows how strong it is.
+
+157
+0:05:29,420 --> 0:05:32,600
+The Boltzmann machine, it learns by messing
+
+158
+0:05:32,600 --> 0:05:35,640
+with these weights based on the stuff it's fed.
+
+159
+0:05:35,710 --> 0:05:38,200
+So instead of just remembering this is a cat,
+
+160
+0:05:38,240 --> 0:05:41,360
+it's more like it develops a sense of what a cat is.
+
+161
+0:05:41,360 --> 0:05:42,570
+You got it.
+
+162
+0:05:42,630 --> 0:05:44,760
+It's all about patterns and probabilities,
+
+163
+0:05:44,760 --> 0:05:46,360
+not just hard facts.
+
+164
+0:05:46,410 --> 0:05:48,310
+Huh, that's pretty wild.
+
+165
+0:05:48,350 --> 0:05:51,300
+But how does it even know which connections to tweak?
+
+166
+0:05:51,540 --> 0:05:53,800
+Like, how does it learn from its mistakes?
+
+167
+0:05:53,970 --> 0:05:55,520
+That's where backpropagation comes in.
+
+168
+0:05:55,520 --> 0:05:57,200
+You know how when you're teaching a dog a trick,
+
+169
+0:05:57,220 --> 0:05:58,840
+you give it treats for getting it right?
+
+170
+0:05:59,000 --> 0:06:00,520
+Yeah, positive reinforcement, right?
+
+171
+0:06:00,520 --> 0:06:02,440
+Exactly, and if the dog messes up,
+
+172
+0:06:02,460 --> 0:06:04,480
+you maybe don't give it a treat or say no,
+
+173
+0:06:04,600 --> 0:06:06,040
+that's like negative reinforcement.
+
+174
+0:06:06,040 --> 0:06:08,280
+Okay, so you're saying this backpropagation thing,
+
+175
+0:06:08,290 --> 0:06:11,400
+it's kind of like the machine getting rewards and penalties.
+
+176
+0:06:11,410 --> 0:06:12,470
+You got it.
+
+177
+0:06:12,930 --> 0:06:15,080
+The machine makes a guess,
+
+178
+0:06:15,130 --> 0:06:17,920
+and depending on how close it gets to the right answer,
+
+179
+0:06:17,950 --> 0:06:20,240
+it adjusts those connections, those weights,
+
+180
+0:06:20,290 --> 0:06:22,560
+gets better with practice, just like us.
+
+181
+0:06:22,600 --> 0:06:23,400
+That's amazing.
+
+182
+0:06:23,400 --> 0:06:24,810
+We went from magnets and memories
+
+183
+0:06:25,380 --> 0:06:28,220
+to a machine that actually learns from trial and error.
+
+184
+0:06:28,310 --> 0:06:29,760
+It's a wild ride, right?
+
+185
+0:06:29,760 --> 0:06:31,550
+It's like watching intelligence evolve
+
+186
+0:06:31,660 --> 0:06:32,970
+right in front of our eyes, and you know what?
+
+187
+0:06:33,040 --> 0:06:34,960
+This whole backpropagation thing,
+
+188
+0:06:35,030 --> 0:06:38,560
+it's a big reason why AI can do such crazy stuff today.
+
+189
+0:06:38,590 --> 0:06:39,400
+That's incredible.
+
+190
+0:06:39,400 --> 0:06:41,320
+So it's not all just theory then.
+
+191
+0:06:41,320 --> 0:06:43,480
+This stuff is actually being used in the real world, right?
+
+192
+0:06:43,480 --> 0:06:45,450
+Oh yeah, and one of the biggest areas
+
+193
+0:06:45,540 --> 0:06:47,230
+where it's making waves is healthcare.
+
+194
+0:06:47,360 --> 0:06:48,630
+Healthcare, really?
+
+195
+0:06:48,640 --> 0:06:49,480
+Like how so?
+
+196
+0:06:49,580 --> 0:06:53,010
+Imagine this, AI looking at x-rays, MRIs,
+
+197
+0:06:53,070 --> 0:06:55,800
+all those medical images, and spotting tiny details,
+
+198
+0:06:55,910 --> 0:06:58,350
+things even expert doctors might miss.
+
+199
+0:06:58,420 --> 0:06:59,240
+That's pretty impressive.
+
+200
+0:06:59,420 --> 0:07:01,280
+It's like having a super-powered assistant, right?
+
+201
+0:07:01,430 --> 0:07:04,620
+Exactly, and we all know how crucial early detection is
+
+202
+0:07:04,640 --> 0:07:06,160
+for treating diseases.
+
+203
+0:07:06,230 --> 0:07:09,360
+AI has the potential to save so many lives.
+
+204
+0:07:09,450 --> 0:07:11,400
+That's remarkable, and it doesn't stop there, right?
+
+205
+0:07:11,530 --> 0:07:13,400
+What else can AI do in healthcare?
+
+206
+0:07:13,450 --> 0:07:15,490
+We're talking personalized medicine,
+
+207
+0:07:15,670 --> 0:07:16,830
+designing new drugs,
+
+208
+0:07:16,940 --> 0:07:19,540
+predicting how patients will respond to treatment.
+
+209
+0:07:19,640 --> 0:07:21,330
+The possibilities are huge.
+
+210
+0:07:21,500 --> 0:07:24,200
+It's incredible how far AI has come,
+
+211
+0:07:24,270 --> 0:07:25,070
+but I gotta admit,
+
+212
+0:07:25,090 --> 0:07:28,120
+with all this talk of super-intelligent machines,
+
+213
+0:07:28,120 --> 0:07:31,000
+I can't help but think about the what-ifs,
+
+214
+0:07:31,150 --> 0:07:32,510
+the potential downsides.
+
+215
+0:07:32,700 --> 0:07:34,560
+It's a valid concern, for sure.
+
+216
+0:07:34,630 --> 0:07:36,160
+As AI gets more powerful,
+
+217
+0:07:36,160 --> 0:07:37,590
+we gotta think about the consequences,
+
+218
+0:07:37,680 --> 0:07:38,550
+both good and bad.
+
+219
+0:07:38,560 --> 0:07:40,640
+Exactly, and I'm really curious to hear more about that.
+
+220
+0:07:40,660 --> 0:07:41,760
+Well, stay tuned,
+
+221
+0:07:41,810 --> 0:07:43,600
+because in the next part of our deep dive,
+
+222
+0:07:43,610 --> 0:07:45,520
+we're gonna get into some of the big questions
+
+223
+0:07:45,520 --> 0:07:47,520
+surrounding the future of AI.
+
+224
+0:07:47,560 --> 0:07:50,280
+Trust me, it's a conversation you won't wanna miss.
+
+225
+0:07:50,280 --> 0:07:50,960
+Ah.
+
+226
+0:07:51,120 --> 0:07:53,400
+Okay, so we're back,
+
+227
+0:07:53,440 --> 0:07:55,320
+and things are about to get really real
+
+228
+0:07:55,320 --> 0:07:58,680
+as we dive into the final part of our deep dive into AI.
+
+229
+0:07:58,840 --> 0:08:00,230
+Yeah, we've covered a lot of ground
+
+230
+0:08:00,580 --> 0:08:01,820
+from those early neural networks
+
+231
+0:08:01,910 --> 0:08:04,600
+to machines that can diagnose diseases
+
+232
+0:08:04,600 --> 0:08:06,220
+and play games like nobody's business,
+
+233
+0:08:06,320 --> 0:08:08,940
+but there's definitely another side of this whole AI thing.
+
+234
+0:08:09,050 --> 0:08:10,560
+Exactly, and like we've been hinting at,
+
+235
+0:08:10,560 --> 0:08:12,600
+it's not all sunshine and roses, right?
+
+236
+0:08:12,810 --> 0:08:16,520
+Right, as we step into this new age of intelligent machines,
+
+237
+0:08:16,530 --> 0:08:18,930
+we gotta think about the potential downsides,
+
+238
+0:08:18,990 --> 0:08:21,000
+the challenges that come with all this progress.
+
+239
+0:08:21,090 --> 0:08:22,920
+Okay, so let's talk about those challenges.
+
+240
+0:08:22,960 --> 0:08:24,910
+What are some of the big concerns
+
+241
+0:08:25,010 --> 0:08:27,960
+when we talk about the future of AI?
+
+242
+0:08:28,000 --> 0:08:29,400
+Well, one that always comes up
+
+243
+0:08:29,450 --> 0:08:32,780
+is this idea of machines getting too smart
+
+244
+0:08:32,930 --> 0:08:35,480
+for their own good, exceeding our control.
+
+245
+0:08:35,480 --> 0:08:38,360
+Like a robot uprising, Terminator-style.
+
+246
+0:08:38,360 --> 0:08:39,960
+Uh-huh, not quite like that,
+
+247
+0:08:40,080 --> 0:08:42,170
+but the idea that these AI systems
+
+248
+0:08:42,240 --> 0:08:44,240
+could have unintended consequences,
+
+249
+0:08:44,270 --> 0:08:45,360
+that's a real concern.
+
+250
+0:08:45,460 --> 0:08:47,280
+So not necessarily evil AI,
+
+251
+0:08:47,330 --> 0:08:50,920
+but AI that's maybe a little too good at its job.
+
+252
+0:08:50,920 --> 0:08:51,960
+Exactly.
+
+253
+0:08:52,030 --> 0:08:52,790
+Think about it.
+
+254
+0:08:52,810 --> 0:08:55,040
+Imagine an AI that's designed to, say,
+
+255
+0:08:55,060 --> 0:08:57,120
+optimize traffic flow in a city.
+
+256
+0:08:57,120 --> 0:08:58,400
+Okay, I'm picturing it.
+
+257
+0:08:58,420 --> 0:08:59,840
+It might be so good at its job
+
+258
+0:08:59,840 --> 0:09:01,800
+that it ends up creating gridlock in certain areas
+
+259
+0:09:01,800 --> 0:09:03,160
+because it wasn't programmed
+
+260
+0:09:03,160 --> 0:09:04,770
+to consider those specific outcomes.
+
+261
+0:09:04,810 --> 0:09:06,340
+So it's like, it's not that the AI
+
+262
+0:09:06,450 --> 0:09:07,540
+is trying to cause problems,
+
+263
+0:09:07,610 --> 0:09:09,520
+it's just that things can get unpredictable
+
+264
+0:09:09,520 --> 0:09:11,960
+when you're dealing with really complex systems.
+
+265
+0:09:11,960 --> 0:09:14,800
+Exactly, and the more autonomous these systems become,
+
+266
+0:09:14,800 --> 0:09:16,510
+the more important it is to make sure
+
+267
+0:09:16,850 --> 0:09:19,880
+we understand how they work, how they make decisions.
+
+268
+0:09:19,880 --> 0:09:21,840
+So transparency is key.
+
+269
+0:09:21,840 --> 0:09:22,840
+Absolutely.
+
+270
+0:09:22,840 --> 0:09:24,920
+The more we understand how these AI systems
+
+271
+0:09:24,920 --> 0:09:26,310
+learn and reason,
+
+272
+0:09:26,330 --> 0:09:28,400
+the better we can anticipate and prevent
+
+273
+0:09:28,400 --> 0:09:29,600
+any potential issues.
+
+274
+0:09:29,600 --> 0:09:30,440
+Makes sense.
+
+275
+0:09:30,440 --> 0:09:31,940
+So it's not just about making AI smarter,
+
+276
+0:09:32,040 --> 0:09:33,840
+it's about making it more understandable.
+
+277
+0:09:33,840 --> 0:09:34,680
+Exactly.
+
+278
+0:09:34,680 --> 0:09:36,400
+And this is where everyone needs to be involved.
+
+279
+0:09:36,400 --> 0:09:39,400
+Researchers, policy makers, even the public.
+
+280
+0:09:39,420 --> 0:09:41,920
+We need to have open and honest conversations
+
+281
+0:09:41,920 --> 0:09:43,310
+about the ethics of AI.
+
+282
+0:09:43,610 --> 0:09:46,280
+We're basically writing the rule book as we go,
+
+283
+0:09:46,390 --> 0:09:48,840
+figuring out not just what AI can do,
+
+284
+0:09:48,900 --> 0:09:50,240
+but what it should do.
+
+285
+0:09:50,240 --> 0:09:51,920
+It's a huge responsibility,
+
+286
+0:09:51,960 --> 0:09:53,670
+but it's also an incredible opportunity
+
+287
+0:09:53,730 --> 0:09:55,370
+to shape the future of technology
+
+288
+0:09:55,540 --> 0:09:57,240
+in a way that benefits everyone.
+
+289
+0:09:57,320 --> 0:09:58,080
+Well said.
+
+290
+0:09:58,080 --> 0:09:59,640
+It's been amazing having you on the show today,
+
+291
+0:09:59,640 --> 0:10:02,560
+walking us through this incredible world of AI.
+
+292
+0:10:02,610 --> 0:10:04,840
+It's clear that we're just scratching the surface
+
+293
+0:10:04,840 --> 0:10:05,670
+of what's possible.
+
+294
+0:10:05,860 --> 0:10:06,940
+The pleasure was all mine.
+
+295
+0:10:07,110 --> 0:10:10,160
+It's an exciting time to be exploring intelligence,
+
+296
+0:10:10,190 --> 0:10:12,830
+both the kind we're born with and the kind we're creating.
+
+297
+0:10:12,870 --> 0:10:13,680
+Absolutely.
+
+298
+0:10:13,680 --> 0:10:14,620
+And for everyone listening,
+
+299
+0:10:14,730 --> 0:10:16,160
+thanks for joining us on this deep dive
+
+300
+0:10:16,160 --> 0:10:17,870
+into the physics of intelligence.
+
+301
+0:10:17,970 --> 0:10:20,390
+We'll be back next time with another mind-blowing topic.
+
+302
+0:10:20,450 --> 0:10:23,060
+Until then, keep those brains buzzing.
