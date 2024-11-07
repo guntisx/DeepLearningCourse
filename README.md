@@ -2,7 +2,7 @@
 Code for my Deep Learning Course at University of Latvia
 
 ## The course videos can be found here:
-1. Intro to Deep Learning: https://youtu.be/2K2RMy-5ZsM
+1. Intro to Deep Learning: https://youtu.be/2K2RMy-5ZsM (Book www.bishopbook.com/ )
 2. Bigram Model: https://youtu.be/Kbc-8iEe6Js (Original: https://youtu.be/kCc8FmEb1nY ) 
 3. Imitation learning (Data is King): https://youtu.be/8t4sxp7NVjg
 4. Numerical Optimisation: https://youtu.be/u-Sn0f2XHnI
