@@ -13,7 +13,7 @@ Code for my Deep Learning Course at University of Latvia
 9. What is Language? https://youtu.be/aJ-3botLBM0 (Diversity of modern languages implies they emerged AFTER HomoSapiens migration out of Africa https://youtu.be/rQv7NBGsldk ; [Impossible languages](https://arxiv.org/abs/2401.06416))
 10. Compression by LLM: https://youtu.be/r-fSI7rSjYI (Original: https://youtu.be/zjkBMFhNj_g )
 11. Evolutionary Learning: https://youtu.be/4OTuG0WRjaU (Demo https://youtu.be/GOFws_hhZs8 )
-12. Neural Network Basics: https://youtu.be/5KNE_zvnNeA
+12. Neural Network Basics: https://youtu.be/5KNE_zvnNeA (Universite de Geneve https://fleuret.org/dlc/ )
 13. Neural Network training (Backpropagation): https://youtu.be/GSZnx7VK3Zg (DetailedExplanation: https://youtu.be/VMj-3S1tku0 )
 14. PyTorch library: https://youtu.be/NlzC9zTXTHM
 16. Innovation: https://youtu.be/1Vhh_dYOu0I (Mystery2: Agentive evolutionary learning needs no training data)
