@@ -18,7 +18,7 @@ Code for my Deep Learning Course at University of Latvia
 14. PyTorch library: https://youtu.be/NlzC9zTXTHM
 16. Innovation: https://youtu.be/1Vhh_dYOu0I (Mystery2: Agentive evolutionary learning needs no training data)
 17. Technological Evolution https://youtu.be/wIJnvCqKPXM (Mystery1: Incremental 1-shot memory for continuous learning)
-18. Egocentric Viewpoint https://youtu.be/t3-InC9VEko (Mystery3: Concept creation)
+18. Egocentric Viewpoint https://youtu.be/t3-InC9VEko (Mystery3: Concept creation; Sutton https://youtu.be/w177Ov-Y3gc)
 <!-- 
 16. PromptEngineering (using LLMs):
 17. HuggingFace (using DNNs):
