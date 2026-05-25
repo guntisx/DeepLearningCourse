@@ -1,0 +1,33 @@
+A 39 year old Slovak-Canadian researcher just paused his AI school to join the company that's racing OpenAI for the future of intelligence.
+
+His name is Andrej Karpathy. And his career is one of the strangest in modern AI.
+
+Karpathy was born in Bratislava in 1986, in what was then Czechoslovakia. His family moved to Toronto when he was 15. He did his bachelor's in computer science and physics at the University of Toronto, where he sat in on Geoffrey Hinton's classes and reading groups long before Hinton became a household name. He did his master's at UBC. Then he went to Stanford for his PhD under Fei-Fei Li, the woman who built ImageNet.
+
+In 2015, while still finishing his PhD, he designed and taught Stanford's first deep learning course. It was called CS231n. It started with 150 students. Two years later it had 750. The lecture videos went on YouTube for free and became the standard reference for an entire generation of AI engineers. TIME magazine later reported that those Stanford lectures alone have over 800,000 views.
+
+That same year, Sam Altman, Elon Musk, and Ilya Sutskever started a research lab called OpenAI. Karpathy was one of its founding members.
+
+He stayed at OpenAI for two years. Then in June 2017, Elon Musk hired him to run Tesla Autopilot. He spent five years there as Senior Director of AI, leading the computer vision team behind every Tesla on the road.
+
+In February 2023 he went back to OpenAI. He quit again in February 2024.
+
+And then he did something nobody in his position had ever done.
+
+He turned his YouTube channel into a school.
+
+His "Neural Networks: Zero to Hero" series walks through how to build a GPT model from scratch in plain code, math, and English. The flagship video, "Let's build GPT: from scratch, in code, spelled out," is just under two hours long and has millions of views. People at every major AI lab cite it as how they actually understood transformers.
+
+In July 2024 he announced Eureka Labs. The pitch was an AI-native school. Human teachers paired with AI teaching assistants, scaling one great teacher to a million students. The first course was LLM101n, an undergraduate program that would teach anyone to train their own ChatGPT from scratch.
+
+Then in February 2025 he coined the phrase "vibe coding" in a single throwaway tweet. The phrase became Collins Dictionary's Word of the Year. It now has its own Wikipedia article.
+
+Last week, on May 19, 2026, he announced he is joining Anthropic.
+
+Eureka Labs is on pause. He said the next few years at the frontier of large language models will be especially formative, and he wanted to get back to research. At Anthropic he will lead a pretraining group focused on using Claude to accelerate Claude itself.
+
+The man who left two of the most powerful AI labs on Earth to teach the world for free just walked back into one of them.
+
+The videos are still up. All of them. Free. Forever.
+
+And he still answers questions in the comments.
