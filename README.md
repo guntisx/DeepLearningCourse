@@ -16,17 +16,17 @@ Code for my Deep Learning Course at University of Latvia
 12. Neural Network Basics: https://youtu.be/5KNE_zvnNeA (Universite de Geneve https://fleuret.org/dlc/ )
 13. Neural Network training (Backpropagation): https://youtu.be/GSZnx7VK3Zg (DetailedExplanation: https://youtu.be/VMj-3S1tku0 )
 14. PyTorch library: https://youtu.be/NlzC9zTXTHM
-16. Innovation: https://youtu.be/1Vhh_dYOu0I (Mystery2: Agentive evolutionary learning needs no training data)
-17. Technological Evolution https://youtu.be/wIJnvCqKPXM (Mystery1: Incremental 1-shot memory for continuous learning)
-18. Egocentric Viewpoint https://youtu.be/t3-InC9VEko (Mystery3: Concept creation; Sutton https://youtu.be/w177Ov-Y3gc)
+16. Innovation: https://youtu.be/1Vhh_dYOu0I (Mystery3: Agentive evolutionary learning needs no training data)
+17. Technological Evolution https://youtu.be/wIJnvCqKPXM (Mystery2: Incremental 1-shot memory for continuous learning)
+18. Egocentric Viewpoint https://youtu.be/t3-InC9VEko (Mystery1: Concept creation; Sutton https://youtu.be/w177Ov-Y3gc)
 <!-- 
 16. PromptEngineering (using LLMs):
 17. HuggingFace (using DNNs):
 -->
 The above three unsolved Mysteries preventing true AI can be rephrased as follows:
-A. PHYSICAL object persistence in vision and touch, SLAM, concept creation, nouns and their instances, SYMBOLIC 1-shot DB-like memory of instances.
-B. Life-long learning in LLMs, finite attention-window problem in LLMs; LLMs are SYMBOLIC and if solved, might address 1-shot DB-like memory of instances.
-C. Evolutionary learning, unlike Deep learning, does not need data - it creates data from individuals arms-race competing in the PHYSICAL world. Requires fast Genetic learning with gene recombination: what is GENE itself (protein factory + LLM-prompt-like info for structure?); how genetically identical cells create multi-cellular bodies of specialised cells?
+1. PHYSICAL object persistence in vision and touch, SLAM, concept creation, nouns and their instances, SYMBOLIC 1-shot DB-like memory of instances.
+2. Life-long learning in LLMs, finite attention-window problem in LLMs; LLMs are SYMBOLIC and if solved, might address 1-shot DB-like memory of instances.
+3. Evolutionary learning, unlike Deep learning, does not need data - it creates data from individuals arms-race competing in the PHYSICAL world. Requires fast Genetic learning with gene recombination: what is GENE itself (protein factory + LLM-prompt-like info for structure?); how genetically identical cells create multi-cellular bodies of specialised cells?
 
 ### Transcripts for all videos available from YouTube
 In video description (press "...more" to reveal it all), at the lower-left corner there is a button "Show transcrpt". 
