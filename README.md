@@ -26,7 +26,7 @@ Code for my Deep Learning Course at University of Latvia
 The above three unsolved Mysteries preventing true AI can be rephrased as follows:
 1. PHYSICAL object persistence in vision and touch, SLAM, concept creation, nouns and their instances, SYMBOLIC 1-shot DB-like memory of instances.
 2. Life-long learning in LLMs, finite attention-window problem in LLMs; LLMs are SYMBOLIC and if solved, might address 1-shot DB-like memory of instances.
-3. Evolutionary learning, unlike Deep learning, does not need data - it creates data from individuals arms-race competing in the PHYSICAL world. Requires fast Genetic learning with gene recombination: what is GENE itself (protein factory + LLM-prompt-like info for structure?); how genetically identical cells create multi-cellular bodies of specialised cells?
+3. Evolutionary learning, unlike Deep learning, does not need data - it creates data from individuals/agents arms-race competing in the PHYSICAL world. Requires fast Genetic learning with gene recombination: what is GENE itself (protein factory + LLM-prompt-like concepts for structure?); how genetically identical cells create multi-cellular bodies of specialised cells?
 
 ### Transcripts for all videos available from YouTube
 In video description (press "...more" to reveal it all), at the lower-left corner there is a button "Show transcrpt". 
