@@ -28,6 +28,8 @@ The above three unsolved Mysteries preventing true AI (Reasoning needs concepts,
 2. Life-long learning in LLMs (LLMs operate on SYMBOLIC Language), finite attention-window problem in LLMs; goals and planning; if solved, might address 1-shot DB-like memory of instances.
 3. Evolutionary learning, unlike Deep learning, does not need data - it creates data from individuals/agents arms-race competition in the PHYSICAL world. Requires fast Genetic learning with gene recombination: what is GENE itself (protein factory + LLM-prompt-like concepts for structure?); how genetically identical cells create multi-cellular bodies of specialised cells?
 
+The chain is true as one viable route to intelligence—the biological one, which is the existence proof we have. It's not obviously true as a necessary route ;-)
+
 ### Transcripts for all videos available from YouTube
 In video description (press "...more" to reveal it all), at the lower-left corner there is a button "Show transcrpt". 
 Copy/paste transcript to your favourite editor (remove timestamps with "Toggle timestamps" under symbol ⋮ in the top-right corner).
