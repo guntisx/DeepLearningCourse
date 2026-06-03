@@ -24,7 +24,7 @@ Code for my Deep Learning Course at University of Latvia
 17. HuggingFace (using DNNs):
 -->
 The above three unsolved Mysteries preventing true AI can be rephrased as follows:
-1. PHYSICAL object persistence in vision and touch, SLAM, concept creation (ontology-schema) and recognition (Occam rasor in scene explanation), nouns and their instances (SYMBOLIC Language), 1-shot DB-like memory of instances.
+1. PHYSICAL object persistence in vision and touch, SLAM, concept creation (ontology-schema) and recognition (Occam rasor causality in scene explanation), nouns and their instances (SYMBOLIC Language), 1-shot DB-like memory of instances.
 2. Life-long learning in LLMs (LLMs operate on SYMBOLIC Language), finite attention-window problem in LLMs; if solved, might address 1-shot DB-like memory of instances.
 3. Evolutionary learning, unlike Deep learning, does not need data - it creates data from individuals/agents arms-race competition in the PHYSICAL world. Requires fast Genetic learning with gene recombination: what is GENE itself (protein factory + LLM-prompt-like concepts for structure?); how genetically identical cells create multi-cellular bodies of specialised cells?
 
