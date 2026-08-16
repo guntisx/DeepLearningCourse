@@ -42,3 +42,4 @@ Copy/paste transcript to your favourite editor (remove timestamps with "Toggle t
 
 Videos were subtitled and voiced using SELMA UC0 OpenSource software available at: https://github.com/SELMA-project/UC0-OpenSource
 
+Link to another course I am teaching: https://www.youtube.com/playlist?list=PLCVN-12g2SA4
